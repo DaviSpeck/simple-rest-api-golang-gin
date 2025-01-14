@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	host     = "localhost"
+	host     = "simple_rest_api_golang_gin_db"
 	port     = 5432
 	user     = "postgres"
 	password = "1234"
